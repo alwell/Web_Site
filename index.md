@@ -75,10 +75,6 @@ http://www.dhammahome.com/home_en.php
 
 http://alwell.github.io/Buddhism_FAQ/
 
-My answers on Quora:
-
-https://www.quora.com/profile/Alan-Weller
-
 ####  Mailing List
 
 http://groups.yahoo.com/group/dhammastudygroup/
