@@ -49,12 +49,12 @@ https://github.com/alwell/Zolag_Archive/blob/master/Work_in_Progress.md
 ---
 
 ### Resources:
+
 #### Buy the Pali Canon here:
 
 http://www.palitext.com/
 
-####
-Online resources for the Pali Canon here:
+#### Online resources for the Pali Canon here:
 
 http://www.palicanon.org/
 
