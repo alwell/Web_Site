@@ -41,6 +41,12 @@ https://github.com/alwell/Zolag_Archive/blob/master/Reviews.md
 The below presentation was made to the University of East London research conference on 24th June 2015
 https://www.haikudeck.com/higher-reality-higher-learning-education-presentation-0X8JKQ1W87. 
 
+### Online Pali Course
+"We are moving into our second year of delivering an Online Pali School. This course is delivered 100% live, and by the end of the course students should be able, using the normal aids available, i.e. dictionaries, grammars and translations, slowly to read a Pali canonical text and understand it for themselves.
+
+Our next course starts in November. Full details can be found here:  http://ocbs.org/courses/pali-online-school/ "
+
+
 #### News Blog and comments:
 http://alwell.github.io
 
