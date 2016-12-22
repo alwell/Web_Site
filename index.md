@@ -12,6 +12,7 @@ Our Archive can be found here [Archive.org](http://archive.org/bookmarks/Alan%20
 Books and articles can also be read on iPad, iPhone and Android devices at [http://www.scribd.com/alanweller/documents](http://www.scribd.com/alanweller/documents)
 
 Original files for editing can be found here: [https://github.com/alwell/Zolag_Archive](https://github.com/alwell/Zolag_Archive)
+
 ### Scribd Collections
 Beginners Buddhism [http://www.scribd.com/collections/4454724/Beginners-Buddhism](http://www.scribd.com/collections/4454724/Beginners-Buddhism)
  
