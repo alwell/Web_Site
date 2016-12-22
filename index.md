@@ -6,7 +6,6 @@ How do you know these books represent the truth of Buddhism? The best you can do
 See also the [Is there a method](https://github.com/alwell/Zolag_Archive/blob/master/isthereamethod.md)
 
 > TIP: If you are a beginner and want to get to grips with the core of Buddhism quickly; here is a quarter page article [Abhidhamma in Daily Life press release](https://github.com/alwell/Zolag_Archive/blob/master/Abhidhamma%20in%20Daily%20Life/ADL_PR.md); a one page article here [The Buddha's Teaching on Physical Phenomena](https://github.com/alwell/Zolag_Archive/blob/master/Physical%20phenomena-preface.md); short 5 page article [Understanding Reality](https://github.com/alwell/Zolag_Archive/tree/master/Understanding%20Reality/ur.md); under the book section, [The Buddha's Path](http://alwell.gitbooks.io/the-buddha-s-path/); Online presentations, [14 Big Ideas of Buddhism and others](http://alwell.github.io/Decks/)
-<iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/266375963&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
 Some books which can be read on any device can be found here: [https://www.gitbook.com/@alwell/](https://www.gitbook.com/@alwell/)
 
 Our Archive can be found here [Archive.org](http://archive.org/bookmarks/Alan%20Weller). 
@@ -39,10 +38,7 @@ https://github.com/alwell/Zolag_Archive/blob/master/Reviews.md
 
 ### NEWS
 The below presentation was made to the University of East London research conference on 24th June 2015
-https://www.haikudeck.com/higher-reality-higher-learning-education-presentation-0X8JKQ1W87
-
-### Online Pali School 
-Next course starts in November. Full details can be found here:  http://ocbs.org/courses/pali-online-school/
+https://www.haikudeck.com/higher-reality-higher-learning-education-presentation-0X8JKQ1W87. 
 
 #### News Blog and comments:
 http://alwell.github.io
@@ -85,9 +81,7 @@ A discussion forum for anyone interested in understanding the Buddha's teachings
 
 http://www.dhammastudygroup.org
 
-Audio files of Buddhist discussions also be found here.
 
-https://soundcloud.com/alwell/2011-03-09-kk-am-a
 
 CONTACT Zolag: 
 http://alwell.github.io/about
