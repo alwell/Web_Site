@@ -38,7 +38,12 @@ Further details of the above books can be found here: [Archive.org](http://archi
 https://github.com/alwell/Zolag_Archive/blob/master/Reviews.md
 
 ### NEWS
-The below presentation was made to the University of East London research conference on 24th June 2015
+The below paper was added to the University of East London ROAR depository 2016-12-19
+
+http://hdl.handle.net/10552/5513
+
+Presentation here:
+
 https://www.haikudeck.com/higher-reality-higher-learning-education-presentation-0X8JKQ1W87. 
 
 ### Online Pali Course
