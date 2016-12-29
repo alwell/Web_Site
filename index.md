@@ -38,25 +38,27 @@ Further details of the above books can be found here: [Archive.org](http://archi
 [https://github.com/alwell/Zolag_Archive/blob/master/Reviews.md](https://github.com/alwell/Zolag_Archive/blob/master/Reviews.md)
 
 ### NEWS
-The below paper was added to the University of East London ROAR depository 2016-12-19
+'Higher reality'. higher learning? This paper was added to the University of East London ROAR depository 2016-12-19
 
-http://hdl.handle.net/10552/5513
+[http://hdl.handle.net/10552/5513](http://hdl.handle.net/10552/5513)
 
 Presentation here:
 
-https://www.haikudeck.com/higher-reality-higher-learning-education-presentation-0X8JKQ1W87. 
+[https://www.haikudeck.com/higher-reality-higher-learning-education-presentation-0X8JKQ1W87](https://www.haikudeck.com/higher-reality-higher-learning-education-presentation-0X8JKQ1W87)
 
 ### Online Pali Course
 "We are moving into our second year of delivering an Online Pali School. This course is delivered 100% live, and by the end of the course students should be able, using the normal aids available, i.e. dictionaries, grammars and translations, slowly to read a Pali canonical text and understand it for themselves.
 
-Our next course starts in November. Full details can be found here:  http://ocbs.org/courses/pali-online-school/ "
+Our next course starts in November. Full details can be found here:  [http://ocbs.org/courses/pali-online-school/](http://ocbs.org/courses/pali-online-school/)
 
 
 #### News Blog and comments:
-http://alwell.github.io
+
+[http://alwell.github.io](http://alwell.github.io)
 
 #### Work in Progress:
-https://github.com/alwell/Zolag_Archive/blob/master/Work_in_Progress.md
+
+[https://github.com/alwell/Zolag_Archive/blob/master/Work_in_Progress.md](https://github.com/alwell/Zolag_Archive/blob/master/Work_in_Progress.md)
 
 ---
 
@@ -68,35 +70,35 @@ http://www.palitext.com/
 
 #### Online resources for the Pali Canon here:
 
-http://www.palicanon.org/
+[http://www.palitext.com/](http://www.palicanon.org/)
 
 #### Photos of Buddhist Holy Places
-https://www.flickr.com/photos/zolag/sets/72157644316174252/
+[https://www.flickr.com/photos/zolag/sets/72157644316174252/](https://www.flickr.com/photos/zolag/sets/72157644316174252/)
 
 #### Abhidhamma.org
-http://www.abhidhamma.org/
+[http://www.abhidhamma.org/](http://www.abhidhamma.org/)
 
 #### Dhamma Study and Support Foundation
-http://www.dhammahome.com/home_en.php
+[http://www.dhammahome.com/home_en.php](http://www.dhammahome.com/home_en.php)
 
 #### What ever happened to Mrs Buddha? (Zolag-FAQ).
 
-http://alwell.github.io/Buddhism_FAQ/
+[http://alwell.github.io/Buddhism_FAQ/](http://alwell.github.io/Buddhism_FAQ/)
 
 ####  Mailing List
 
-http://groups.yahoo.com/group/dhammastudygroup/
+[http://groups.yahoo.com/group/dhammastudygroup/](http://groups.yahoo.com/group/dhammastudygroup/)
 
 A discussion forum for anyone interested in understanding the Buddha's teachings as found in all three baskets of the Tipitaka. If you have any questions regarding content on this site then ask questions here.
  
 #### Audio
 
-http://www.dhammastudygroup.org
+[http://www.dhammastudygroup.org](http://www.dhammastudygroup.org)
 
 
 
 CONTACT Zolag: 
-http://alwell.github.io/about
+[http://alwell.github.io/about](http://alwell.github.io/about)
 
  
 
