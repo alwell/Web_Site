@@ -35,7 +35,7 @@ Books on Abhidhamma [http://www.scribd.com/collections/4454521/Abhidhamma](http:
 Further details of the above books can be found here: [Archive.org](http://archive.org/bookmarks/Alan%20Weller)
 
 ### Book Reviews
-https://github.com/alwell/Zolag_Archive/blob/master/Reviews.md
+[https://github.com/alwell/Zolag_Archive/blob/master/Reviews.md](https://github.com/alwell/Zolag_Archive/blob/master/Reviews.md)
 
 ### NEWS
 The below paper was added to the University of East London ROAR depository 2016-12-19
