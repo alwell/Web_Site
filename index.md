@@ -47,9 +47,9 @@ Presentation here:
 [https://www.haikudeck.com/higher-reality-higher-learning-education-presentation-0X8JKQ1W87](https://www.haikudeck.com/higher-reality-higher-learning-education-presentation-0X8JKQ1W87)
 
 ### Online Pali Course (Oxford Centre for Buddhist Studies)
-"We are moving into our second year of delivering an Online Pali School. This course is delivered 100% live, and by the end of the course students should be able, using the normal aids available, i.e. dictionaries, grammars and translations, slowly to read a Pali canonical text and understand it for themselves.
+We have a new Pali online school coming up. Course dates: 2—22 April. Classes begin 3 April 2017.
 
-Our next course starts in November. Full details can be found here:  [http://ocbs.org/courses/pali-online-school/](http://ocbs.org/courses/pali-online-school/)
+Full details can be found here:  http://ocbs.org/courses/pali-online-school/
 
 
 #### News Blog and comments:
