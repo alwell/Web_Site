@@ -38,9 +38,7 @@ Further details of the above books can be found here: [Archive.org](http://archi
 [https://github.com/alwell/Zolag_Archive/blob/master/Reviews.md](https://github.com/alwell/Zolag_Archive/blob/master/Reviews.md)
 
 ### NEWS
-'Higher reality'. higher learning? This paper was added to the University of East London ROAR depository 2016-12-19
-
-[http://hdl.handle.net/10552/5513](http://hdl.handle.net/10552/5513)
+'Higher reality'. higher learning? This paper will be presented to the EDULEARN 2017 conference in Barcelona 2-4th July 2017. https://iated.org/edulearn/
 
 Presentation here:
 
