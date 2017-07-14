@@ -42,7 +42,7 @@ Further details of the above books can be found here: [Archive.org](http://archi
 
 Synthesized Presentation here:
 
-https://youtu.be/bJqLJaSsnBk
+[https://youtu.be/bJqLJaSsnBk](https://youtu.be/bJqLJaSsnBk)
 
 Online presentation here:
 
