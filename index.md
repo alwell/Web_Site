@@ -95,7 +95,7 @@ A discussion forum for anyone interested in understanding the Buddha's teachings
  
 #### Audio
 
-[http://www.dhammastudygroup.org](https://groups.io/g/dsg)https://groups.io/g/dsg
+[http://www.dhammastudygroup.org](https://groups.io/g/dsg)
 
 
 
