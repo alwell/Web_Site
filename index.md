@@ -89,13 +89,13 @@ http://www.palitext.com/
 
 ####  Mailing List
 
-[Great Dhamma discussion forum!](http://groups.yahoo.com/group/dhammastudygroup/)
+[Dhamma Study Group](https://groups.io/g/dsg)
 
 A discussion forum for anyone interested in understanding the Buddha's teachings as found in all three baskets of the Tipitaka. If you have any questions regarding content on this site then ask questions here.
  
 #### Audio
 
-[Edited audio discussions with Achan Sujin & friends](https://groups.io/g/dsg)
+[Edited audio discussions](www.dhammastudygroup.org)
 
 
 
