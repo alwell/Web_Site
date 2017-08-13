@@ -48,11 +48,6 @@ Online presentation here:
 
 [https://www.haikudeck.com/higher-reality-higher-learning-education-presentation-0X8JKQ1W87](https://www.haikudeck.com/higher-reality-higher-learning-education-presentation-0X8JKQ1W87)
 
-### Online Pali Course (Oxford Centre for Buddhist Studies)
-We have a new Pali online school coming up. Course dates: 2—22 April. Classes begin 3 April 2017.
-
-Full details can be found here:  http://ocbs.org/courses/pali-online-school/
-
 
 #### News Blog and comments:
 
@@ -61,6 +56,19 @@ Full details can be found here:  http://ocbs.org/courses/pali-online-school/
 #### Work in Progress:
 
 [https://github.com/alwell/Zolag_Archive/blob/master/Work_in_Progress.md](https://github.com/alwell/Zolag_Archive/blob/master/Work_in_Progress.md)
+
+####  Mailing List
+
+[Dhamma Study Group](https://groups.io/g/dsg)
+
+A discussion forum for anyone interested in understanding the Buddha's teachings as found in all three baskets of the Tipitaka. If you have any questions regarding content on this site then ask questions here.
+ 
+#### Audio
+
+[Edited audio discussions](http://www.dhammastudygroup.org)
+
+#### Dhamma Study and Support Foundation
+[http://www.dhammahome.com/home_en.php](http://www.dhammahome.com/home_en.php)
 
 ---
 
@@ -80,22 +88,12 @@ http://www.palitext.com/
 #### Abhidhamma.org
 [http://www.abhidhamma.org/](http://www.abhidhamma.org/)
 
-#### Dhamma Study and Support Foundation
-[http://www.dhammahome.com/home_en.php](http://www.dhammahome.com/home_en.php)
 
 #### What ever happened to Mrs Buddha? (Zolag-FAQ).
 
 [http://alwell.github.io/Buddhism_FAQ/](http://alwell.github.io/Buddhism_FAQ/)
 
-####  Mailing List
 
-[Dhamma Study Group](https://groups.io/g/dsg)
-
-A discussion forum for anyone interested in understanding the Buddha's teachings as found in all three baskets of the Tipitaka. If you have any questions regarding content on this site then ask questions here.
- 
-#### Audio
-
-[Edited audio discussions](http://www.dhammastudygroup.org)
 
 
 
