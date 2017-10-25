@@ -1,6 +1,25 @@
-# my test
-## of an extra page
-Available from these sellers:
+**GREETINGS** and a **BIG WAVE** to **all SURFERS**.  We are publishers of Buddhist books
+and articles. Currently we have several books in print (published under the imprint of Zolag) and on this site thousands
+of pages of books and articles for free download. We also have several unique books on various topics from the 'Abhidhamma', `the theory of buddhism'. The aim of these books is to bridge the gap between theory and practice and help to give a precision to the  understanding of buddhism.
+
+### Books in print 
+ 
+- The Buddha's Path (hardback only, published May 1st 2014)
+- Cetasikas (hardback only, published May 1st 2014)
+- Buddhism in Daily Life  (hardback only)
+- Abhidhamma in Daily Life  (hardback only)
+- The Conditionality of life 
+- The Buddhist Teaching on Physical Phenomena 
+- The Perfections leading to Enlightenment 
+- A Survey of Paramattha Dhammas  (hardback only)
+
+Further details of the above books can be found here: [Archive.org](http://archive.org/bookmarks/Alan%20Weller)
+
+### Book Reviews
+[https://github.com/alwell/Zolag_Archive/blob/master/Reviews.md](https://github.com/alwell/Zolag_Archive/blob/master/Reviews.md)
+
+### Available from these sellers:
+
 [Hive](https://www.hive.co.uk); 
 [Wordery](https://wordery.com); 
 [Book Butler](http://www.bookbutler.co.uk); 
