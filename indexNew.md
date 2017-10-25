@@ -13,10 +13,8 @@ of pages of books and articles for free download. We also have several unique bo
 - The Perfections leading to Enlightenment 
 - A Survey of Paramattha Dhammas  (hardback only)
 
-Further details of the above books can be found here: [Archive.org](http://archive.org/bookmarks/Alan%20Weller)
-
 ### Book Reviews
-[https://github.com/alwell/Zolag_Archive/blob/master/Reviews.md](https://github.com/alwell/Zolag_Archive/blob/master/Reviews.md)
+[Reviews from around the globe](https://github.com/alwell/Zolag_Archive/blob/master/Reviews.md)
 
 ### Available from these sellers:
 
