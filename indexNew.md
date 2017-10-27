@@ -4,10 +4,7 @@ of pages of books and articles for free download. We also have several unique bo
 
 ### Books in print 
  
-- The Buddha's Path (hardback only, published May 1st 2014)
-
-An Introduction to the doctrine of Theravada Buddhism for those who have no previous knowledge. The four noble Truths - suffering - the origin of suffering - the cessation of suffering - and the way leading to the end of suffering - are explained as a philosophy and a practical guide which can be followed in today's world. ISBN 978-1-897633-29-8. Author Nina van Gorkom.
-
+- The Buddha's Path (hardback only, published May 1st 2014) author Nina van Gorkom ISBN 978-1-897633-29-8.
 - Cetasikas (hardback only, published May 1st 2014) author Nina van Gorkom ISBN 9781897633304 
 - Buddhism in Daily Life  (hardback only) author Nina van Gorkom ISBN 9781897633281 
 - Abhidhamma in Daily Life  (hardback only) author Nina van Gorkom ISBN 9781897633274 
