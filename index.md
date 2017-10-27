@@ -17,7 +17,7 @@ of pages of books and articles for free download. We also have several unique bo
 ### Book Reviews
 [Reviews from around the globe](https://github.com/alwell/Zolag_Archive/blob/master/Reviews.md)
 
-### Available from these sellers:
+### Available from these sellers (public):
 
 [Hive](https://www.hive.co.uk); 
 [Wordery](https://wordery.com); 
@@ -26,6 +26,9 @@ of pages of books and articles for free download. We also have several unique bo
 [Waterstones](https://www.waterstones.com); 
 [Foyles](http://www.foyles.co.uk); 
 [Amazon.co.uk](http://www.amazon.co.uk). 
+
+### Trade
+[iPage Ingram Content](https://ipage.ingramcontent.com/ipage/li001.jsp)
 
 ### Support
 
