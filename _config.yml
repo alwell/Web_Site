@@ -1,7 +1,7 @@
 title: Buddha Code
 description: Zolag home
 google_analytics: UA-44586747-1
-show_downloads: true
+show_downloads: false
 theme: jekyll-theme-slate
 
 gems:
