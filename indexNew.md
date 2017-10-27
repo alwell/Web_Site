@@ -13,8 +13,8 @@ An Introduction to the doctrine of Theravada Buddhism for those who have no prev
 - Abhidhamma in Daily Life  (hardback only) author Nina van Gorkom ISBN 9781897633274 
 - The Conditionality of life author Nina van Gorkom ISBN 9781897633267 
 - The Buddhist Teaching on Physical Phenomena author Nina van Gorkom 9781897633250
-- The Perfections leading to Enlightenment author Nina van Gorkom
-- A Survey of Paramattha Dhammas (hardback only) author Sujin Boriharnwanaket
+- The Perfections leading to Enlightenment author Sujin Boriharnwanaket ISBN 1897633238
+- A Survey of Paramattha Dhammas (hardback only) author Sujin Boriharnwanaket ISBN 1897633211
 - The Buddha's Path author Nina van Gorkom ISBN 9781897633298 
 
 ### Book Reviews
