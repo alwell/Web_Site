@@ -1,7 +1,3 @@
-**GREETINGS** and a **BIG WAVE** to **all SURFERS**.  We are publishers of Buddhist books
-and articles. Currently we have several books in print (published under the imprint of Zolag) and on this site thousands
-of pages of books and articles for free download. We also have several unique books on various topics from the 'Abhidhamma', `the theory of buddhism'. The aim of these books is to bridge the gap between theory and practice and help to give a precision to the  understanding of buddhism.
-
 How do you know these books represent the truth of Buddhism? The best you can do is check them with original teachings and verify them with the truth of reality now. All our books have many quotes from the original scriptures. See this link for a sutta from the Buddha about this problem. [Maha Paranibbana Sutta](https://github.com/alwell/Zolag_Archive/blob/master/Mah%C4%81parinibb%C4%81naSutta.md)
 See also the [Is there a method](https://github.com/alwell/Zolag_Archive/blob/master/isthereamethod.md)
 
