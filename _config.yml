@@ -2,7 +2,7 @@ title: Zolag
 description: Publisher of books on Theravada Buddhism
 google_analytics: UA-44586747-1
 show_downloads: true
-theme: jekyll-theme-tactile
+theme: jekyll-theme-cayman
 
 gems:
   - jekyll-mentions
