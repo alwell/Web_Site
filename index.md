@@ -27,4 +27,4 @@ of pages of books and articles for free download. We also have several unique bo
 [Foyles](http://www.foyles.co.uk); 
 [Amazon.co.uk](http://www.amazon.co.uk). 
 
-[Support site](http://alwell.github.io/Web_Site/support.html)
+[SUPPORT](https://alwell.github.io/Support/)
