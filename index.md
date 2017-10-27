@@ -1,5 +1,5 @@
 **GREETINGS** and a **BIG WAVE** to **all SURFERS**.  We are publishers of Buddhist books
-and articles. Currently we have several books in print (published under the imprint of Zolag) and on this site thousands
+and articles. Currently we have several books in print (published under the imprint of Zolag) and on our support site thousands
 of pages of books and articles for free download. We also have several unique books on various topics from the 'Abhidhamma', `the theory of buddhism'. The aim of these books is to bridge the gap between theory and practice and help to give a precision to the  understanding of buddhism.
 
 ### Books in print 
