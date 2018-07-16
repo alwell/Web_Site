@@ -34,6 +34,6 @@ of pages of books and articles for free download. We also have several unique bo
 [https://alwell.github.io/Support/](https://alwell.github.io/Support/)
 
 ### Contact
-<http://alwell.github.io/Contact/>
+[Contact Zolag](https://docs.google.com/forms/d/e/1FAIpQLSf5lxYq2sVNpwgGuSzN51IMZVEdLB_KhzTKzqvW3hQo9CcZVg/viewform?usp=sf_link)
 
 
