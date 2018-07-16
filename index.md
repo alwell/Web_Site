@@ -34,6 +34,6 @@ of pages of books and articles for free download. We also have several unique bo
 [https://alwell.github.io/Support/](https://alwell.github.io/Support/)
 
 ### Contact
-<http://alwell.github.io/about/>
+<http://alwell.github.io/Contact/>
 
 
