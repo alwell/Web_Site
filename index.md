@@ -36,4 +36,4 @@ of pages of books and articles for free download. We also have several unique bo
 ### Contact
 <http://alwell.github.io/about/>
 
-{{ page.date | date: '%B %d, %Y' }}
+
