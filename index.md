@@ -8,7 +8,7 @@ of pages of books and articles for free download. We also have several unique bo
 - Cetasikas (hardback only, published May 1st 2014) author Nina van Gorkom ISBN 9781897633304 
 - Buddhism in Daily Life  (hardback only) author Nina van Gorkom ISBN 9781897633281 
 - Abhidhamma in Daily Life  (hardback only) author Nina van Gorkom ISBN 9781897633274 
-[Press Release](https://alwell.github.io/Book_details/adl_pr)
+[Press Release](https://alwell.github.io/Book_details/adl_pr). [Book details](https://alwell.github.io/Book_details/adl)
 - The Conditionality of life author Nina van Gorkom ISBN 9781897633267 
 - The Buddhist Teaching on Physical Phenomena author Nina van Gorkom 9781897633250
 - The Perfections leading to Enlightenment author Sujin Boriharnwanaket ISBN 1897633238
