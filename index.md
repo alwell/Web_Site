@@ -6,8 +6,8 @@ of pages of books and articles for free download. We also have several unique bo
  
 - The Buddha's Path (hardback only, published May 1st 2014) author Nina van Gorkom ISBN 978-1-897633-29-8.
 - Cetasikas (hardback only, published May 1st 2014) author Nina van Gorkom ISBN 9781897633304 
-- Buddhism in Daily Life  (hardback only) author Nina van Gorkom ISBN 9781897633281 
-- Abhidhamma in Daily Life  (hardback only) author Nina van Gorkom ISBN 9781897633274 
+- Buddhism in Daily Life  (hardback only) author Nina van Gorkom. Book details: [https://alwell.github.io/Book_details/bdl](https://alwell.github.io/Book_details/bdl)
+- Abhidhamma in Daily Life  (hardback only) author Nina van Gorkom
 Press Release: [https://alwell.github.io/Book_details/adl_pr](https://alwell.github.io/Book_details/adl_pr). 
 Book details: [https://alwell.github.io/Book_details/adl](https://alwell.github.io/Book_details/adl)
 - The Conditionality of life author Nina van Gorkom ISBN 9781897633267 
