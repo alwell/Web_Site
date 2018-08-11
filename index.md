@@ -13,7 +13,7 @@ Book details: [https://alwell.github.io/Book_details/adl](https://alwell.github.
 - The Conditionality of life author Nina van Gorkom ISBN 9781897633267 
 - The Buddhist Teaching on Physical Phenomena author Nina van Gorkom 9781897633250
 - The Perfections leading to Enlightenment author Sujin Boriharnwanaket ISBN 1897633238
-- A Survey of Paramattha Dhammas (hardback only) author Sujin Boriharnwanaket ISBN 1897633211
+- A Survey of Paramattha Dhammas (hardback only) author Sujin Boriharnwanaket. Book details: [https://alwell.github.io/Book_details/spd](https://alwell.github.io/Book_details/spd)
 
 ### Overview of all books in print
 
