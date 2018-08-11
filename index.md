@@ -10,7 +10,7 @@ of pages of books and articles for free download. We also have several unique bo
 - Abhidhamma in Daily Life  (hardback only) author Nina van Gorkom
 Press Release: [https://alwell.github.io/Book_details/adl_pr](https://alwell.github.io/Book_details/adl_pr). 
 Book details: [https://alwell.github.io/Book_details/adl](https://alwell.github.io/Book_details/adl)
-- The Conditionality of life author Nina van Gorkom ISBN 9781897633267 
+- The Conditionality of life author Nina van Gorkom. Book details: [https://alwell.github.io/Book_details/col](https://alwell.github.io/Book_details/col)
 - The Buddhist Teaching on Physical Phenomena author Nina van Gorkom 9781897633250
 - The Perfections leading to Enlightenment author Sujin Boriharnwanaket. Book details: [https://alwell.github.io/Book_details/ple](https://alwell.github.io/Book_details/ple)
 - A Survey of Paramattha Dhammas (hardback only) author Sujin Boriharnwanaket. Book details: [https://alwell.github.io/Book_details/spd](https://alwell.github.io/Book_details/spd)
