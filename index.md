@@ -19,7 +19,7 @@ Book details: [https://alwell.github.io/Book_details/adl](https://alwell.github.
 
 [https://alwell.github.io/Book_details/booksoverview](https://alwell.github.io/Book_details/booksoverview)
 
-### Available from these sellers (public):
+### Available from these sellers in the UK (public):
 
 [Hive](https://www.hive.co.uk); 
 [Wordery](https://wordery.com); 
