@@ -19,10 +19,6 @@ Book details: [https://alwell.github.io/Book_details/adl](https://alwell.github.
 
 [https://alwell.github.io/Book_details/booksoverview](https://alwell.github.io/Book_details/booksoverview)
 
-
-### Book Reviews
-[Reviews from around the globe](https://github.com/alwell/Zolag_Archive/blob/master/Reviews.md)
-
 ### Available from these sellers (public):
 
 [Hive](https://www.hive.co.uk); 
