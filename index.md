@@ -19,6 +19,12 @@ Book details: [https://alwell.github.io/Book_details/adl](https://alwell.github.
 
 [https://alwell.github.io/Book_details/booksoverview](https://alwell.github.io/Book_details/booksoverview)
 
+### Biographies
+
+Sujin Boriharnwannaket https://alwell.github.io/Book_details/sujinbio
+
+Nina van Gorkom https://alwell.github.io/Book_details/nina
+
 ### Available from these sellers in the UK (public):
 
 [Hive](https://www.hive.co.uk); 
