@@ -21,9 +21,9 @@ Book details: [https://alwell.github.io/Book_details/adl](https://alwell.github.
 
 ### Biographies
 
-Sujin Boriharnwanaket [](https://alwell.github.io/Book_details/sujinbio)
+Sujin Boriharnwanaket [https://alwell.github.io/Book_details/sujinbio](https://alwell.github.io/Book_details/sujinbio)
 
-Nina van Gorkom https://alwell.github.io/Book_details/nina
+Nina van Gorkom [https://alwell.github.io/Book_details/nina](https://alwell.github.io/Book_details/sujinbio)
 
 ### Available from these sellers in the UK (public):
 
