@@ -21,7 +21,7 @@ Book details: [https://alwell.github.io/Book_details/adl](https://alwell.github.
 
 ### Biographies
 
-Sujin Boriharnwannaket https://alwell.github.io/Book_details/sujinbio
+Sujin Boriharnwanaket [](https://alwell.github.io/Book_details/sujinbio)
 
 Nina van Gorkom https://alwell.github.io/Book_details/nina
 
