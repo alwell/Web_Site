@@ -19,6 +19,11 @@ Book details: [https://alwell.github.io/Book_details/adl](https://alwell.github.
 
 [https://alwell.github.io/Book_details/booksoverview](https://alwell.github.io/Book_details/booksoverview)
 
+### New books due to be published
+
+- Paperback version of The Buddha's Path due 1st November 2018.
+- Letters on Vipassana due 1st November 2018.
+
 ### Biographies
 
 Sujin Boriharnwanaket [https://alwell.github.io/Book_details/sujinbio](https://alwell.github.io/Book_details/sujinbio)
