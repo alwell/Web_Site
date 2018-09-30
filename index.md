@@ -14,6 +14,7 @@ Book details: [https://alwell.github.io/Book_details/adl](https://alwell.github.
 - The Buddhist Teaching on Physical Phenomena author Nina van Gorkom. Book details: [https://alwell.github.io/Book_details/pp](https://alwell.github.io/Book_details/pp)
 - The Perfections leading to Enlightenment author Sujin Boriharnwanaket. Book details: [https://alwell.github.io/Book_details/ple](https://alwell.github.io/Book_details/ple)
 - A Survey of Paramattha Dhammas (hardback only) author Sujin Boriharnwanaket. Book details: [https://alwell.github.io/Book_details/spd](https://alwell.github.io/Book_details/spd)
+- Letters on Vipassanā author Nina van Gorkom. Book details: [https://alwell.github.io/Book_details/LoV](https://alwell.github.io/Book_details/LoV)
 
 ### Overview of all books in print
 
