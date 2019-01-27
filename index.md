@@ -15,6 +15,7 @@ Book details: [https://alwell.github.io/Book_details/adl](https://alwell.github.
 - The Perfections leading to Enlightenment, author Sujin Boriharnwanaket. Book details: [https://alwell.github.io/Book_details/ple](https://alwell.github.io/Book_details/ple)
 - A Survey of Paramattha Dhammas (hardback only), author Sujin Boriharnwanaket. Book details: [https://alwell.github.io/Book_details/spd](https://alwell.github.io/Book_details/spd)
 - Letters on Vipassanā, author Nina van Gorkom. Published 1st November 2018. Book details: [https://alwell.github.io/Book_details/LoV](https://alwell.github.io/Book_details/LoV)
+- Introduction to the Buddhist Scriptures, author Nina van Gorkom. Book details: [https://alwell.github.io/Book_details/ittbs](https://alwell.github.io/Book_details/ittbs)
 
 ### Overview of all books in print
 
