@@ -16,6 +16,7 @@ Book details: [https://alwell.github.io/Book_details/adl](https://alwell.github.
 - Letters on Vipassanā, author Nina van Gorkom. Published 1st November 2018. Book details: [https://alwell.github.io/Book_details/LoV](https://alwell.github.io/Book_details/LoV)
 - Introduction to the Buddhist Scriptures, author Nina van Gorkom. Book details: [https://alwell.github.io/Book_details/ittbs](https://alwell.github.io/Book_details/ittbs)
 - The Northern Line to High Reality via Bank, author and photographer Alan Weller. [Promo video](https://youtu.be/XeVEX9dGVTY). Book details: [https://alwell.github.io/Northernline/nlmetta.html](https://alwell.github.io/Northernline/nlmetta.html). Book support: [https://alwell.github.io/Northernline/](https://alwell.github.io/Northernline/)
+- Understanding Realities now: Nina’s travelogues, author Nina van Gorkom. To be published 15th April 2020. Book details: [https://alwell.github.io/Book_details/urn](https://alwell.github.io/Book_details/urn)
 
 
 ### Biographies
@@ -24,8 +25,6 @@ Sujin Boriharnwanaket [https://alwell.github.io/Book_details/sujinbio](https://a
 
 Nina van Gorkom [https://alwell.github.io/Book_details/nina](https://alwell.github.io/Book_details/nina)
 
-### Coming soon
-- Understanding Realities now: Nina’s travelogues. 400 pages hardback to be published 1st March 2020
 
 
 
