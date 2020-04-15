@@ -4,7 +4,7 @@ of pages of books and articles for free download. We also have several unique bo
 
 ### Books in print 
  
-- The Buddha's Path, author Nina van Gorkom. Book details: [https://alwell.github.io/Book_details/bp](https://alwell.github.io/Book_details/bp)
+- The Buddha's Path, author Nina van Gorkom. Book details: [https://alwell.github.io/Book_details/bp](https://alwell.github.io/Book_details/bp). Kindle version available.
 - Cetasikas (hardback), author Nina van Gorkom. Book details: [https://alwell.github.io/Book_details/cetasika](https://alwell.github.io/Book_details/cetasika)
 - Buddhism in Daily Life  (hardback only), author Nina van Gorkom. Book details: [https://alwell.github.io/Book_details/bdl](https://alwell.github.io/Book_details/bdl)
 - Abhidhamma in Daily Life  (hardback only), author Nina van Gorkom. [Promotional video](https://youtu.be/LpOuNHuRGQg). Press Release: [https://alwell.github.io/Book_details/adl_pr](https://alwell.github.io/Book_details/adl_pr). 
