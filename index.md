@@ -39,6 +39,9 @@ Nina van Gorkom [https://alwell.github.io/Book_details/nina](https://alwell.gith
 [Foyles](http://www.foyles.co.uk); 
 [Amazon.co.uk](http://www.amazon.co.uk). 
 
+### All books are available as a free pdf at:
+[archive.org](https://archive.org)
+
 ### Trade
 [iPage Ingram Content](https://ipage.ingramcontent.com/ipage/li001.jsp)
 
