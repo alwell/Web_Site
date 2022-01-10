@@ -50,6 +50,6 @@ Nina van Gorkom [https://alwell.github.io/Book_details/nina](https://alwell.gith
 [https://alwell.github.io/Support/](https://alwell.github.io/Support/)
 
 ### Contact
-[Contact Zolag](https://docs.google.com/forms/d/e/1FAIpQLSf5lxYq2sVNpwgGuSzN51IMZVEdLB_KhzTKzqvW3hQo9CcZVg/viewform?usp=sf_link)
+[Contact Zolag](https://docs.google.com/forms/d/1JranecnZ6vzMhRUllr4yxhC-Zlpr0U9MdFrTW9StIY8/edit?usp=sharing)
 
 
