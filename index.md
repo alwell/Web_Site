@@ -18,7 +18,7 @@ Book details: [https://alwell.github.io/Book_details/adl](https://alwell.github.
 - The Northern Line to High Reality via Bank, author and photographer Alan Weller. [Promo video](https://youtu.be/XeVEX9dGVTY). Book details: [https://alwell.github.io/Northernline/nlmetta.html](https://alwell.github.io/Northernline/nlmetta.html). Book support: [https://alwell.github.io/Northernline/](https://alwell.github.io/Northernline/). Kindle version available.
 - Understanding Realities now: Nina’s travelogues, author Nina van Gorkom. To be published 20th April 2020. Book details: [https://alwell.github.io/Book_details/urn](https://alwell.github.io/Book_details/urn). Promo Video: [https://youtu.be/ZS9KuWM5Q7Q](https://youtu.be/ZS9KuWM5Q7Q)
 - Buddhism: Learning to understand life, author Nina van Gorkom. The purpose of this book is to help the reader gain insight into how Buddhism works to understand life. It is not mere theory, but it is to be applied right now, at this moment. The Buddha taught that all mental phenomena and physical phenomena which naturally appear in our daily life can be objects of mindfulness and right understanding. Available on Amazon Kindle only.
-- Understanding Life Now (hardback only), authors Sarah Procter Abbott and Nina van Gorkom. Published 26th January 2022. [Promo video](https://youtu.be/sAB0SoGB8bY). Book details: 
+- Understanding Life Now (hardback only), authors Sarah Procter Abbott and Nina van Gorkom. Published 26th January 2022. [Promo video](https://youtu.be/sAB0SoGB8bY). Book details: [https://alwell.github.io/Book_details/uln](https://alwell.github.io/Book_details/uln).
 
 
 ### Biographies
