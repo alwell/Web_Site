@@ -8,7 +8,7 @@ of pages of books and articles for free download. We also have several unique bo
 - Cetasikas (hardback), author Nina van Gorkom. Book details: [https://alwell.github.io/Book_details/cetasika](https://alwell.github.io/Book_details/cetasika)
 - Buddhism in Daily Life  (hardback only), author Nina van Gorkom. Book details: [https://alwell.github.io/Book_details/bdl](https://alwell.github.io/Book_details/bdl)
 - Abhidhamma in Daily Life  (hardback only), author Nina van Gorkom. [Promotional video](https://youtu.be/LpOuNHuRGQg). Press Release: [https://alwell.github.io/Book_details/adl_pr](https://alwell.github.io/Book_details/adl_pr). 
-Book details: [https://alwell.github.io/Book_details/adl](https://alwell.github.io/Book_details/adl). Dedicated support site: [https://alwell.github.io/Support/ADL_support](https://alwell.github.io/Support/ADL_support)
+Book details: [https://alwell.github.io/Book_details/adl](https://alwell.github.io/Book_details/adl). French translation available see Book details. Dedicated support site: [https://alwell.github.io/Support/ADL_support](https://alwell.github.io/Support/ADL_support)
 - The Conditionality of life, author Nina van Gorkom. Book details: [https://alwell.github.io/Book_details/col](https://alwell.github.io/Book_details/col)
 - The Buddhist Teaching on Physical Phenomena, author Nina van Gorkom. Book details: [https://alwell.github.io/Book_details/pp](https://alwell.github.io/Book_details/pp)
 - The Perfections leading to Enlightenment, author Sujin Boriharnwanaket. Book details: [https://alwell.github.io/Book_details/ple](https://alwell.github.io/Book_details/ple)
