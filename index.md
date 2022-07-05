@@ -19,6 +19,7 @@ Book details: [https://alwell.github.io/Book_details/adl](https://alwell.github.
 - Understanding Realities now: Nina’s travelogues, author Nina van Gorkom. To be published 20th April 2020. Book details: [https://alwell.github.io/Book_details/urn](https://alwell.github.io/Book_details/urn). Promo Video: [https://youtu.be/ZS9KuWM5Q7Q](https://youtu.be/ZS9KuWM5Q7Q)
 - Buddhism: Learning to understand life, author Nina van Gorkom. The purpose of this book is to help the reader gain insight into how Buddhism works to understand life. It is not mere theory, but it is to be applied right now, at this moment. The Buddha taught that all mental phenomena and physical phenomena which naturally appear in our daily life can be objects of mindfulness and right understanding. Available on Amazon Kindle only.
 - Understanding Life Now (hardback only), authors Sarah Procter Abbott and Nina van Gorkom. Published 26th January 2022. [Promo video](https://youtu.be/sAB0SoGB8bY). Book details: [https://alwell.github.io/Book_details/uln](https://alwell.github.io/Book_details/uln).
+- The World in the Buddhist Sense, author Nina van Gorkom. Published July 1st 2022. Book details: [https://alwell.github.io/Book_details/wibs](https://alwell.github.io/Book_details/uwibs).
 
 
 ### Biographies
