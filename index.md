@@ -56,7 +56,7 @@ Nina van Gorkom [https://alwell.github.io/Book_details/nina](https://alwell.gith
 [Contact Zolag](https://forms.gle/yuGZ7NuLncaFehMY8)
 
 
-      <script>
+      ```<script>
       (function (w, d, s, o, f, js, fjs) {
         w["chatsonic_widget"] = o;
         w[o] =
@@ -74,6 +74,6 @@ Nina van Gorkom [https://alwell.github.io/Book_details/nina](https://alwell.gith
         serviceBaseUrl: "https://api.writesonic.com",
         token: "460a3b35-3d6b-43b5-80bc-9e29577bc268",
       });
-    </script>
+    </script>```
 
 
