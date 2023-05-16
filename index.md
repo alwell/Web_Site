@@ -56,3 +56,24 @@ Nina van Gorkom [https://alwell.github.io/Book_details/nina](https://alwell.gith
 [Contact Zolag](https://forms.gle/yuGZ7NuLncaFehMY8)
 
 
+      <script>
+      (function (w, d, s, o, f, js, fjs) {
+        w["chatsonic_widget"] = o;
+        w[o] =
+          w[o] ||
+          function () {
+            (w[o].q = w[o].q || []).push(arguments);
+          };
+        (js = d.createElement(s)), (fjs = d.getElementsByTagName(s)[0]);
+        js.id = o;
+        js.src = f;
+        js.async = 1;
+        fjs.parentNode.insertBefore(js, fjs);
+      })(window, document, "script", "ws", "https://writesonic.s3.amazonaws.com/frontend-assets/CDN/botsonic.min.js");
+      ws("init", {
+        serviceBaseUrl: "https://api.writesonic.com",
+        token: "460a3b35-3d6b-43b5-80bc-9e29577bc268",
+      });
+    </script>
+
+
