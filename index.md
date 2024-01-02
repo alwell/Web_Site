@@ -24,7 +24,7 @@ Book details: [https://alwell.github.io/Book_details/adl](https://alwell.github.
 
 ## Announcement
 
-Nina van Gorkom, author of most of the books published by Zolag, passed away peacefully in her sleep on December 31st 2023 aged 95.
+Nina van Gorkom, author of 14 books published by Zolag, passed away peacefully in her sleep on December 31st 2023 aged 95.
 
 Nina has been a prolific writer on Buddhism, and had a deep and detailed knowledge of the teachings.
 
