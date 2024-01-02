@@ -34,6 +34,8 @@ Nina’s writings are well-known amongst English speaking Buddhists, and she is 
 
 We have lost Nina, a very good friend in the Dhamma, but we gain through her writings an understanding of the Dhamma which can never be lost.
 
+Alan Weller, Director of Zolag
+
 ### Biographies
 
 Sujin Boriharnwanaket [https://alwell.github.io/Book_details/sujinbio](https://alwell.github.io/Book_details/sujinbio)
