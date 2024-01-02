@@ -22,6 +22,15 @@ Book details: [https://alwell.github.io/Book_details/adl](https://alwell.github.
 - The World in the Buddhist Sense, author Nina van Gorkom. Published July 1st 2022. Book details: [https://alwell.github.io/Book_details/wibs](https://alwell.github.io/Book_details/wibs). [Promo video.](https://youtu.be/8u5GFcCukpk)
 - Dhamma Now, author Sarah Procter Abbott. Published 1st May 2023. Book details: [https://alwell.github.io/Book_details/dn](https://alwell.github.io/Book_details/dn).
 
+## Announcement
+
+Nina van Gorkom author of most of the books published by Zolag passed away peacefully in her sleep on December 31st 2023.
+
+Nina has been a prolific writer on Buddhism, and had a deep and detailed knowledge of the teachings.
+
+She uses simple, straightforward, uncluttered language to help us understand. However, she does not shy away from the depth and subtlety of the original teachings. She has written books which no one else has even attempted, for example, Cetasikas. To this day I have not seen any other books which can compete with hers on the development of insight.
+
+We have lost Nina, a very good friend in the Dhamma, but we gain through her writings an understanding of the Dhamma which can never be lost.
 
 ### Biographies
 
