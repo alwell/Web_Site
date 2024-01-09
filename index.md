@@ -26,15 +26,11 @@ Book details: [https://alwell.github.io/Book_details/adl](https://alwell.github.
 
 Nina van Gorkom, author of 14 books published by Zolag, passed away peacefully in her sleep on December 31st 2023 aged 95.
 
-Nina has been a prolific writer on Buddhism, and had a deep and detailed knowledge of the teachings.
+[**In memory of Nina van Gorkom**](https://alwell.github.io/Book_details/ninatribute)
 
-She uses simple, straightforward, uncluttered language to help us understand. However, she does not shy away from the depth and subtlety of the original teachings. She has written books which no one else has even attempted, for example, Cetasikas. To this day I have not seen any other books which can compete with hers on the development of insight.
+by Sarah and Jonothan Abbott 6 January 2024
 
-Nina’s writings are well-known amongst English speaking Buddhists, and she is highly respected in Thailand where several of her books have been translated into the Thai language with (after many reprints) over one hundred thousand copies now. Her books have also been translated in Sri Lanka, Indonesia, Nepal, China, Vietnam, Germany, France and Italy.
 
-We have lost Nina, a very good friend in the Dhamma, but we gain through her writings an understanding of the Dhamma which can never be lost.
-
-Alan Weller, Director of Zolag
 
 ### Biographies
 
