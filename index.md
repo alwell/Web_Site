@@ -20,7 +20,7 @@ Book details: [https://alwell.github.io/Book_details/adl](https://alwell.github.
 - Understanding Life Now (hardback only), authors Sarah Procter Abbott and Nina van Gorkom. Published 26th January 2022. [Promo video](https://youtu.be/sAB0SoGB8bY). Book details: [https://alwell.github.io/Book_details/uln](https://alwell.github.io/Book_details/uln).
 - The World in the Buddhist Sense, author Nina van Gorkom. Published July 1st 2022. Book details: [https://alwell.github.io/Book_details/wibs](https://alwell.github.io/Book_details/wibs). [Promo video.](https://youtu.be/8u5GFcCukpk)
 - Dhamma Now, author Sarah Procter Abbott. Published 1st May 2023. Book details: [https://alwell.github.io/Book_details/dn](https://alwell.github.io/Book_details/dn).
-- Mettā: Loving-kindness in Buddhism author Sujin Boriharnwanaket. Published April 4th 2024.
+- Mettā: Loving-kindness in Buddhism, author Sujin Boriharnwanaket. Published April 10th 2024.
 
 ## Other Books
 
