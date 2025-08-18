@@ -1,6 +1,6 @@
 **GREETINGS** and a **BIG WAVE** to **all SURFERS**.  We are publishers of Buddhist books
-and articles. Currently we have several books in print (published under the imprint of Zolag) and on our support site thousands
-of pages of books and articles for free download. We also have several unique books on various topics from the 'Abhidhamma', `the theory of buddhism'. The aim of these books is to bridge the gap between theory and practice and help to give a precision to the  understanding of buddhism.
+and articles. Currently, we have several books in print (published under the imprint of Zolag) and on our support site, thousands
+of pages of books and articles for free download. We also have several unique books on various topics from the 'Abhidhamma'. The aim of these books is to bridge the gap between theory and practice and help to give precision to the  understanding of Buddhism.
 
 ### Books in print 
  
@@ -21,6 +21,7 @@ Book details: [https://alwell.github.io/Book_details/adl](https://alwell.github.
 - The World in the Buddhist Sense, author Nina van Gorkom. Published July 1st 2022. Book details: [https://alwell.github.io/Book_details/wibs](https://alwell.github.io/Book_details/wibs). [Promo video.](https://youtu.be/8u5GFcCukpk)
 - Dhamma Now, author Sarah Procter Abbott. Published 1st May 2023. Book details: [https://alwell.github.io/Book_details/dn](https://alwell.github.io/Book_details/dn).
 - Mettā: Loving-kindness in Buddhism, author Sujin Boriharnwanaket. Published April 10th 2024.
+- - Dhamma Now 2, author Sarah Procter Abbott. Published August 2025. Book details: [https://alwell.github.io/Book_details/dn2](https://alwell.github.io/Book_details/dn2).
 
 ## Other Books
 
