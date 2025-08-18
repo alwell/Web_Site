@@ -21,7 +21,7 @@ Book details: [https://alwell.github.io/Book_details/adl](https://alwell.github.
 - The World in the Buddhist Sense, author Nina van Gorkom. Published July 1st 2022. Book details: [https://alwell.github.io/Book_details/wibs](https://alwell.github.io/Book_details/wibs). [Promo video.](https://youtu.be/8u5GFcCukpk)
 - Dhamma Now, author Sarah Procter Abbott. Published 1st May 2023. Book details: [https://alwell.github.io/Book_details/dn](https://alwell.github.io/Book_details/dn).
 - Mettā: Loving-kindness in Buddhism, author Sujin Boriharnwanaket. Published April 10th 2024.
-- - Dhamma Now 2, author Sarah Procter Abbott. Published August 2025. Book details: [https://alwell.github.io/Book_details/dn2](https://alwell.github.io/Book_details/dn2).
+- Dhamma Now 2, author Sarah Procter Abbott. Published August 2025. Book details: [https://alwell.github.io/Book_details/dn2](https://alwell.github.io/Book_details/dn2).
 
 ## Other Books
 
